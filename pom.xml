@@ -11,7 +11,7 @@
     <groupId>com.hazrody</groupId>
     <artifactId>pixelWar</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>pixelWar</name>
     <description>Back du projet pixelWar comme reddit</description>
     <properties>
